@@ -21,18 +21,18 @@ The Omni Skills Olympiad is not merely an educational platform; it is an interac
 
 ## 2. Features
 
-### 🌆 Environment
+### Environment
 - **Living Innovation District:** An expansive isometric canvas where nodes interact.
 - **Architectural SVG System:** Procedurally generated buildings and platforms constructed from 2D SVG polygons.
 - **Dynamic Pathways (Embedded Lighting):** As the learner walks, the neutral stone paths illuminate beneath their feet and gracefully fade.
 - **Ambient Environment:** Deep, soft ambient shadows, scattered minimalist trees, plazas, and intermittent slow-flying birds.
 
-### 🏃 Learner System
+### Learner System
 - **Autonomous Curated Journeys:** The learner autonomously follows predefined journeys through the ecosystem to simulate life.
 - **Abstract Architectural Pawn:** A minimalist, elegant figurine (a 'meeple') that feels like a physical token rather than a digital avatar.
 - **Smooth Locomotion:** Pure CSS `transition-all` linear interpolation driven by React state changes.
 
-### 🏢 Reactive Architecture
+### Reactive Architecture
 Every building in the district possesses a distinct "personality" and reacts when visited by the learner.
 
 #### **University**
